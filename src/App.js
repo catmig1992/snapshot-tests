@@ -1,5 +1,5 @@
-import './App.css';
-import GitHubCard from './components/GitHubCard';
+import "./App.css";
+import GitHubCard from "./components/GitHubCard";
 
 function App() {
   return (
